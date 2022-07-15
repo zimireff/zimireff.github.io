@@ -1,0 +1,17 @@
+.one {
+display: block;
+    border: 5px solid #030;
+     
+}
+
+.two {
+display: inline-block;
+    padding: 20px;
+    border: 1px solid #000;
+}
+.im {
+   width: 100%;
+ 
+    max-width: 600px;
+    min-width: 550px;
+}

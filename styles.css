@@ -1,17 +1,23 @@
-.one {
-display: block;
-    border: 5px solid #030;
-     
+.navihead {
+  display: inline;
 }
 
-.two {
-display: inline-block;
-    padding: 20px;
-    border: 1px solid #000;
+.fonted {
+    font-family: Courier;
+    font-style: 20px;
+
 }
-.im {
-   width: 100%;
- 
-    max-width: 600px;
-    min-width: 550px;
+
+.namehead{
+    position: relative;
+    left: 80px;
+}
+
+.namenav {
+    display: inline-block;
+    padding: 5px;
+    font-weight: 600;
+    position: relative;
+    top: -45px;
+    left: 800px;
 }
